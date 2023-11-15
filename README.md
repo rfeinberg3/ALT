@@ -1,6 +1,6 @@
 # NLPFinalProject
 
-* Project Links * 
+*** Project Links 
 
 Hittite Base Form Dictionary:
 *	https://lrc.la.utexas.edu/eieol_base_form_dictionary/hitol/11
