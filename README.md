@@ -13,5 +13,9 @@ Hittite Lexicon:
 
 No Language Left Behind GitHub:
 •	https://github.com/facebookresearch/fairseq/tree/nllb
-o	Info on fine-tuning their model:
-o	https://github.com/facebookresearch/fairseq/blob/nllb/examples/nllb/modeling/README.md
+Their Model: 
+* https://huggingface.co/facebook/nllb-200-1.3B
+Info on fine-tuning their model:
+* https://github.com/facebookresearch/fairseq/blob/nllb/examples/nllb/modeling/README.md
+
+
