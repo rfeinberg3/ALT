@@ -12,10 +12,10 @@ Hittite Lexicon:
 *	https://www.assyrianlanguages.org/hittite/en_lexique_hittite.htm#l
 
 No Language Left Behind GitHub:
-* https://github.com/facebookresearch/fairseq/tree/nllb - 
+  - https://github.com/facebookresearch/fairseq/tree/nllb 
   Their Model on HuggingFace: 
-    - https://huggingface.co/facebook/nllb-200-1.3B
+  - https://huggingface.co/facebook/nllb-200-1.3B
   Info on fine-tuning their model:
-    - https://github.com/facebookresearch/fairseq/blob/nllb/examples/nllb/modeling/README.md
+  - https://github.com/facebookresearch/fairseq/blob/nllb/examples/nllb/modeling/README.md
 
 
