@@ -13,13 +13,20 @@ fieldnames = ("Hittite", "Translation")
 reader = csv.DictReader(csvfile, fieldnames)
 for row in reader:
     # use regex to scrub "Hittie" labeled data from csv
-    pattern_text = r'\w+' 
-    pattern = re.compile(pattern_text)
-    hitScraped = pattern.match(row["Hittite"]) # match only first word from "Hittite" labeled data
-    if hitScraped != None:
-        row["Hittite"] = hitScraped.group(0)
+    pattern_hittite_text = r'\w+' 
+    pattern_hittite = re.compile(pattern_hittite_text)
+    hitRow = pattern_hittite.match(row["Hittite"]) # match only first word from "Hittite" labeled data
+
+    pattern_translation_text = r'(\w+[;]?[^.]+)[.]{1}' 
+    pattern_translation = re.compile(pattern_translation_text)
+    translationRow = pattern_translation.match(row["Translation"]) # match definition up to first period. (; symbol shuld be included because it entails the same definition in a different light.)
+    if hitRow != None:
+        row["Hittite"] = hitRow.group(0)
     else:
         continue
-
+    if translationRow != None:
+        row["Translation"] = translationRow.group(0)
+    else:
+        continue
     json.dump(row, jsonfile)
     jsonfile.write('\n')
