@@ -9,7 +9,6 @@ jsonFilePath = r'/Users/ryan/Desktop/NLPFinalProject/Hittite Sheet - w2w.json'
 csvfile = open(csvFilePath, 'r')
 jsonfile = open(jsonFilePath, 'w')
 
-reader = csv.DictReader( csvfile, fieldnames)
 fieldnames = ("Hittite", "Translation")
 reader = csv.DictReader(csvfile, fieldnames)
 for row in reader:
