@@ -7,7 +7,7 @@ Hittite Base Form Dictionary:
 
 Hittite Lexicons:
 *	https://www.assyrianlanguages.org/hittite/en_lexique_hittite.htm#l
-* https://hittitetexts.com/en
+* https://hittitetexts.com/en (where we get eCMD from)
 
 
 No Language Left Behind GitHub:
