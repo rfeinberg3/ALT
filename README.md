@@ -8,8 +8,10 @@ Hittite Base Form Dictionary:
 Info on the Chicago Hittite Dictionary:
 *	https://isac.uchicago.edu/research/projects/chicago-hittite-dictionary-project/the-chd
 
-Hittite Lexicon:
+Hittite Lexicons:
 *	https://www.assyrianlanguages.org/hittite/en_lexique_hittite.htm#l
+* https://hittitetexts.com/en
+
 
 No Language Left Behind GitHub:
   * https://github.com/facebookresearch/fairseq/tree/nllb
