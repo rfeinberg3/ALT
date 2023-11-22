@@ -5,9 +5,6 @@
 Hittite Base Form Dictionary:
 *	https://lrc.la.utexas.edu/eieol_base_form_dictionary/hitol/11
 
-Info on the Chicago Hittite Dictionary:
-*	https://isac.uchicago.edu/research/projects/chicago-hittite-dictionary-project/the-chd
-
 Hittite Lexicons:
 *	https://www.assyrianlanguages.org/hittite/en_lexique_hittite.htm#l
 * https://hittitetexts.com/en
