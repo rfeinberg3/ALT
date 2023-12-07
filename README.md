@@ -9,6 +9,9 @@ Hittite Lexicons:
 *	https://www.assyrianlanguages.org/hittite/en_lexique_hittite.htm#l
 * https://hittitetexts.com/en (where we get eCMD from)
 
+Hittite To Englsh colab:
+* https://colab.research.google.com/drive/1fmJe9EuumIo-uwfW4Pp3hgyz3SviomaQ?usp=sharing
+
 
 No Language Left Behind GitHub:
   * https://github.com/facebookresearch/fairseq/tree/nllb
