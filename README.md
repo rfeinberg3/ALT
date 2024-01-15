@@ -22,4 +22,4 @@ No Language Left Behind GitHub:
 
 NLLB New Language Fine-Tuning Original Example:
   * https://cointegrated.medium.com/how-to-fine-tune-a-nllb-200-model-for-translating-a-new-language-a37fc706b865
-  * https://colab.research.google.com/drive/1bayEaw2fz_9Mhg9jFFZhrmDlQlBj1YZf?usp=sharing  <--- Their colab
+  * https://colab.research.google.com/drive/1bayEaw2fz_9Mhg9jFFZhrmDlQlBj1YZf?usp=sharing  <--- Their original colab
