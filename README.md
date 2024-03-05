@@ -19,7 +19,7 @@ bigger issue though is the lack of language
 models that support fine-tuning for new
 languages.
 
-**References**
+**References:**
 
 Hittite Base Form Dictionary:
 *	https://lrc.la.utexas.edu/eieol_base_form_dictionary/hitol/11
