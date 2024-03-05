@@ -1,6 +1,42 @@
-# NLPFinalProject
+## NLPFinalProject: Building a Machine Translation Model for Ancient Language Translation
+**Abstract:**
 
-*** Project Links 
+  Hittite is one of the oldest written
+languages, spoken by the ancient Hittites
+with records dating as far back as the 17th
+century B.C.E. in what is now modern-day
+Turkey. However, the language died out
+around the 13th century B.C.E and
+relatively few records of the language
+have been uncovered, making Hittite a low
+data language. The issue is training a
+language model to translate written Hittite
+into written English. A difficult task for
+two main reasons: as mentioned, there is a
+data scarcity when it comes to labeled
+Hittite to English translations. Possibly the
+bigger issue though is the lack of language
+models that support fine-tuning for new
+languages.
+
+## Project Overview
+
+This project aims to bridge the gap between the ancient and the modern world by translating the Hittite language into English. At the core of this endeavor lies the utilization of cutting-edge Natural Language Processing (NLP) and machine learning techniques, leveraging a transformer-based model open to the community for advancements and contributions. 
+
+### Key Features
+
+- **Transformer-Based Model Translation:** Employs a state-of-the-art transformer-based model to understand and translate the Hittite language.
+
+- **Custom Supervised Dataset:** Through meticulous data scraping and the development of a dataset builder tool, this project has curated a specialized dataset. This dataset features pairs of English and Hittite translations, tailored to train the translation model effectively.
+
+- **Google Colab Integration:** The project is accessible via a Google Colab notebook for ease of use and accessibility. This notebook guides users through the process of tokenization, model fine-tuning, and evaluation, providing an interactive platform for exploring ancient Hittite translations.
+
+- **Performance Metrics:** To ensure the translation model's accuracy and reliability, comprehensive metrics are collected and analyzed.
+
+More details can be found in the report doocument HitToEng_Report.pdf.
+
+
+## References:
 
 Hittite Base Form Dictionary:
 *	https://lrc.la.utexas.edu/eieol_base_form_dictionary/hitol/11
