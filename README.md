@@ -21,7 +21,7 @@ languages.
 
 ## Project Overview
 
-This project introduces an innovative approach to bridging linguistic gaps between the ancient and the modern world by translating the Hittite language into English. At the core of this endeavor lies the utilization of cutting-edge Natural Language Processing (NLP) and machine learning techniques, leveraging a transformer-based model open to the community for advancements and contributions. 
+This project aims to bridge the gap between the ancient and the modern world by translating the Hittite language into English. At the core of this endeavor lies the utilization of cutting-edge Natural Language Processing (NLP) and machine learning techniques, leveraging a transformer-based model open to the community for advancements and contributions. 
 
 ## References:
 
