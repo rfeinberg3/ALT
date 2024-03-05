@@ -1,4 +1,4 @@
-# NLPFinalProject
+## NLPFinalProject
 **Abstract:**
 
   Hittite is one of the oldest written
@@ -22,7 +22,8 @@ languages.
 ## Project Overview
 
 This project introduces an innovative approach to bridging linguistic gaps between the ancient and the modern world by translating the Hittite language into English. At the core of this endeavor lies the utilization of cutting-edge Natural Language Processing (NLP) and machine learning techniques, leveraging a transformer-based model open to the community for advancements and contributions. 
-**References:**
+
+## References:
 
 Hittite Base Form Dictionary:
 *	https://lrc.la.utexas.edu/eieol_base_form_dictionary/hitol/11
