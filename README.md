@@ -25,13 +25,13 @@ This project aims to bridge the gap between the ancient and the modern world by 
 
 ### Key Features
 
-- **Transformer-Based Model Translation:** Employs a state-of-the-art transformer-based model to understand and translate the Hittite language, facilitating a deeper understanding of ancient texts.
+- **Transformer-Based Model Translation:** Employs a state-of-the-art transformer-based model to understand and translate the Hittite language.
 
 - **Custom Supervised Dataset:** Through meticulous data scraping and the development of a dataset builder tool, this project has curated a specialized dataset. This dataset features pairs of English and Hittite translations, tailored to train the translation model effectively.
 
-- **Google Colab Integration:** The project is accessible via a Google Colab notebook, designed for ease of use and broad accessibility. This notebook guides users through the process of tokenization, model fine-tuning, and evaluation, providing an interactive platform for exploring ancient Hittite translations.
+- **Google Colab Integration:** The project is accessible via a Google Colab notebook for ease of use and accessibility. This notebook guides users through the process of tokenization, model fine-tuning, and evaluation, providing an interactive platform for exploring ancient Hittite translations.
 
-- **Performance Metrics:** To ensure the translation model's accuracy and reliability, comprehensive metrics are collected and analyzed. These metrics offer insights into the model's performance, drawing from the carefully constructed dataset.
+- **Performance Metrics:** To ensure the translation model's accuracy and reliability, comprehensive metrics are collected and analyzed.
 
 ## References:
 
