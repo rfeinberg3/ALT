@@ -33,7 +33,8 @@ This project aims to bridge the gap between the ancient and the modern world by 
 
 - **Performance Metrics:** To ensure the translation model's accuracy and reliability, comprehensive metrics are collected and analyzed.
 
-More details can be found in the report doocument HitToEng_Report.pdf.
+  More details can be found in the report document HitToEng_Report.pdf.
+The implementation at nllb_hittite_to_english_finetune.ipynb.
 
 
 ## References:
