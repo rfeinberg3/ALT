@@ -1,6 +1,23 @@
 # NLPFinalProject
-
-*** Project Links 
+Abstract
+Hittite is one of the oldest written
+languages, spoken by the ancient Hittites
+with records dating as far back as the 17th
+century B.C.E. in what is now modern-day
+Turkey. However, the language died out
+around the 13th century B.C.E and
+relatively few records of the language
+have been uncovered, making Hittite a low
+data language. The issue is training a
+language model to translate written Hittite
+into written English. A difficult task for
+two main reasons: as mentioned, there is a
+data scarcity when it comes to labeled
+Hittite to English translations. Possibly the
+bigger issue though is the lack of language
+models that support fine-tuning for new
+languages.
+*** References
 
 Hittite Base Form Dictionary:
 *	https://lrc.la.utexas.edu/eieol_base_form_dictionary/hitol/11
