@@ -19,6 +19,9 @@ bigger issue though is the lack of language
 models that support fine-tuning for new
 languages.
 
+## Project Overview
+
+This project introduces an innovative approach to bridging linguistic gaps between the ancient and the modern world by translating the Hittite language into English. At the core of this endeavor lies the utilization of cutting-edge Natural Language Processing (NLP) and machine learning techniques, leveraging a transformer-based model open to the community for advancements and contributions. 
 **References:**
 
 Hittite Base Form Dictionary:
