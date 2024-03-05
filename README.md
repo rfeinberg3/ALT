@@ -33,6 +33,9 @@ This project aims to bridge the gap between the ancient and the modern world by 
 
 - **Performance Metrics:** To ensure the translation model's accuracy and reliability, comprehensive metrics are collected and analyzed.
 
+More details can be found in the report doocument HitToEng_Report.pdf.
+
+
 ## References:
 
 Hittite Base Form Dictionary:
