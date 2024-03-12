@@ -30,6 +30,8 @@ This project aims to bridge the gap between the ancient and the modern world by 
 - **Custom Supervised Dataset:** Through meticulous data scraping and the development of a dataset builder tool, this project has curated a specialized dataset. This dataset features pairs of English and Hittite translations, tailored to train the translation model effectively.
 
 - **Google Colab Integration:** The project is accessible via a Google Colab notebook for ease of use and accessibility. This notebook guides users through the process of tokenization, model fine-tuning, and evaluation, providing an interactive platform for exploring ancient Hittite translations.
+- Hittite To English colab:
+* https://colab.research.google.com/drive/1fmJe9EuumIo-uwfW4Pp3hgyz3SviomaQ?usp=sharing
 
 - **Performance Metrics:** To ensure the translation model's accuracy and reliability, comprehensive metrics are collected and analyzed.
 
@@ -45,9 +47,6 @@ Hittite Base Form Dictionary:
 Hittite Lexicons:
 *	https://www.assyrianlanguages.org/hittite/en_lexique_hittite.htm#l
 * https://hittitetexts.com/en (where we get eCMD from)
-
-Hittite To Englsh colab:
-* https://colab.research.google.com/drive/1fmJe9EuumIo-uwfW4Pp3hgyz3SviomaQ?usp=sharing
 
 
 No Language Left Behind GitHub:
