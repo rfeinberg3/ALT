@@ -39,7 +39,7 @@ This project aims to bridge the gap between the ancient and the modern world by 
 The implementation at nllb_hittite_to_english_finetune.ipynb.
 
 
-## Usage
+# Usage
 
   Use of the Model for translating is highlighted in section 8 of the Google Colab notebook.
   
