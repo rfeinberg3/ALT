@@ -31,7 +31,7 @@ This project aims to bridge the gap between the ancient and the modern world by 
 
 - **Google Colab Integration:** The project is accessible via a Google Colab notebook for ease of use and accessibility. This notebook guides users through the process of tokenization, model fine-tuning, and evaluation, providing an interactive platform for exploring ancient Hittite translations. 
 
-  Hittite To English colab: https://colab.research.google.com/drive/1fmJe9EuumIo-uwfW4Pp3hgyz3SviomaQ?usp=sharing
+  Hittite To English colab: [https://colab.research.google.com/drive/1fmJe9EuumIo-uwfW4Pp3hgyz3SviomaQ?usp=sharing](https://colab.research.google.com/drive/1fmJe9EuumIo-uwfW4Pp3hgyz3SviomaQ?usp=sharing)
 
 - **Performance Metrics:** To ensure the translation model's accuracy and reliability, comprehensive metrics are collected and analyzed.
 
