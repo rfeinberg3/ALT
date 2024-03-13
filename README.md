@@ -41,7 +41,7 @@ The implementation at nllb_hittite_to_english_finetune.ipynb.
 
 # Usage
 
-- load model from Huggingface @ "ryfye181/hitttie_saved_model".
+- load model from Huggingface @ "ryfye181/hittite_saved_model".
 - Use of the Model for translating is highlighted in section 8 of the Google Colab notebook.
   
 ## References:
