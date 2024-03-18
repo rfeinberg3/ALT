@@ -44,7 +44,7 @@ The implementation at nllb_hittite_to_english_finetune.ipynb.
 !Must run on a GPU! CPU usage is not supported!
 
 Load model from Huggingface:
-- model_load_name = "ryfye181/hittite_saved_model"
+$ model_load_name = "ryfye181/hittite_saved_model"
 - model = AutoModelForSeq2SeqLM.from_pretrained(model_load_name).cuda()
 - tokenizer = NllbTokenizer.from_pretrained(model_load_name).
 
