@@ -39,7 +39,7 @@ This project aims to bridge the gap between the ancient and the modern world by 
 The implementation at nllb_hittite_to_english_finetune.ipynb.
 
 
-# Usage
+## Usage
 
 **!Must run on a GPU! CPU usage is not supported!**
 
@@ -50,14 +50,14 @@ The implementation at nllb_hittite_to_english_finetune.ipynb.
 
 Using the Model for translating is demonostrated in section 8 of the Google Colab notebook.
 
-# Metrics
+## Metrics
 
-## Loss over Time During Training
+### Loss over Time During Training
 ![image](https://github.com/rfeinberg3/Hittite_English_Translation_w-NLLB/assets/95943957/b2101ba5-36f3-4d9a-a3bf-bad2a0d06471)
 ![image](https://github.com/rfeinberg3/Hittite_English_Translation_w-NLLB/assets/95943957/1b3e6bdf-932d-4a8c-ab49-223bde3be381)
 
   
-# References:
+## References:
 
 Hittite Base Form Dictionary:
 *	https://lrc.la.utexas.edu/eieol_base_form_dictionary/hitol/11
