@@ -1,4 +1,4 @@
-## NLPFinalProject: Building a Machine Translation Model for Ancient Language Translation
+## Project: Building a Machine Translation Model for Ancient Language Translation with Meta AI's No Language Left Behind (NLLB) Model.
 **Abstract:**
 
   Hittite is one of the oldest written
