@@ -45,9 +45,10 @@ The implementation at nllb_hittite_to_english_finetune.ipynb.
 
 Load model from Huggingface:
 - model_load_name = "ryfye181/hittite_saved_model"
-model = AutoModelForSeq2SeqLM.from_pretrained(model_load_name).cuda()
-tokenizer = NllbTokenizer.from_pretrained(model_load_name).
-- Use of the Model for translating is highlighted in section 8 of the Google Colab notebook.
+- model = AutoModelForSeq2SeqLM.from_pretrained(model_load_name).cuda()
+- tokenizer = NllbTokenizer.from_pretrained(model_load_name).
+
+Using the Model for translating is demonostrated in section 8 of the Google Colab notebook.
 
 # Metrics
 ![image](https://github.com/rfeinberg3/Hittite_English_Translation_w-NLLB/assets/95943957/b2101ba5-36f3-4d9a-a3bf-bad2a0d06471)
