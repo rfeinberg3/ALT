@@ -1,4 +1,3 @@
-## Project:
 # Ancient Language Translation with Meta AI's No Language Left Behind (NLLB) Model.
 **Abstract:**
 
