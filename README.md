@@ -43,8 +43,12 @@ The implementation at nllb_hittite_to_english_finetune.ipynb.
 
 - load model from Huggingface @ "ryfye181/hittite_saved_model".
 - Use of the Model for translating is highlighted in section 8 of the Google Colab notebook.
+
+# Metrics
+![image](https://github.com/rfeinberg3/Hittite_English_Translation_w-NLLB/assets/95943957/b2101ba5-36f3-4d9a-a3bf-bad2a0d06471)
+
   
-## References:
+# References:
 
 Hittite Base Form Dictionary:
 *	https://lrc.la.utexas.edu/eieol_base_form_dictionary/hitol/11
