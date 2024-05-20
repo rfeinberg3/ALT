@@ -58,7 +58,7 @@ Using the Model for translating is demonostrated in section 8 of the Google Cola
 ![image](https://github.com/rfeinberg3/Hittite_English_Translation_w-NLLB/assets/95943957/1b3e6bdf-932d-4a8c-ab49-223bde3be381)
 **https://github.com/mjpost/sacrebleu#chrf--chrf**
 
-### Translation 
+## Translation 
 Please see `Records/Nllb_Finetune_Output.csv` for an example of English to Hittite and Hittite to English translations. The `src_lang` and `tgt_lang` columns are comprised of Hittite and English words/phrases from the test set respectively. You can see the machine translations of these words on the same row in columns `hit_translated` and `eng_translated` respectively.  
 
 
