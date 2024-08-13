@@ -1,4 +1,4 @@
-# Ancient Language Translation with Meta AI's No Language Left Behind (NLLB) Model
+# Ancient Language Translation (ALT) with Meta AI's No Language Left Behind (NLLB) Model
 
 ![Hittite-Cuneiform-Clay-Tablet-Writing-Language](https://github.com/rfeinberg3/Hittite_English_Translation_w-NLLB/assets/95943957/997b9af1-5404-4371-bbdf-a6bd8e2371af)
 
